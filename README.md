@@ -8,7 +8,9 @@ This project demonstrates how to scrape book data **efficiently and in real-time
 - Saves extracted data to **book_list.txt**.
 - Implements **error handling** for robustness.
 
-**For a full explanation and detailed guide, visit:** [MyWeb.com](https://myweb.com)
+**For a full explanation and detailed guide, visit:** 
+- Indonesian version: [Read Here](https://medium.com/@rahman.poland.ce21/daily-python-mengambil-data-website-secara-real-time-efisien-cepat-dan-hemat-memori-4e5136ba4ec1)
+- English version : [Read Here](https://medium.com/@rahman.poland.ce21/daily-python-fetch-website-data-in-real-time-efficient-fast-and-memory-saving-53b28789f218?sk=67e832a9d2d56bbf7c31b0e8640b417a)
 
 ## About Me
 **A. RAHMAN** - Python Developer & Tech Enthusiast
